@@ -2,7 +2,7 @@
   "name": "filmoteka",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/damanosalvag/filmotest/",
+  "homepage": "https://damanosalvag.github.io/filmotest/",
   "type": "module",
   "scripts": {
     "start": "parcel src/*.html",
